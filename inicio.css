@@ -1,0 +1,42 @@
+/* Estilos específicos para la página de inicio */
+
+/* Estilos para las secciones de la página de inicio */
+main section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #e9e9e9;
+  border-radius: 5px;
+}
+
+/* Estilos para los encabezados de las secciones */
+main section h2 {
+  font-size: 1.5em;
+  color: #004080;
+  margin-bottom: 10px;
+}
+
+/* Estilos para los párrafos de las secciones */
+main section p {
+  font-size: 1.1em;
+  margin-bottom: 15px;
+}
+
+/* Estilos para las listas de la sección "Nuestros Servicios" */
+main section ul {
+  padding-left: 20px;
+}
+
+main section ul li {
+  margin-bottom: 10px;
+}
+
+/* Enlaces de la página de inicio */
+main section a {
+  color: #004080;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main section a:hover {
+  text-decoration: underline;
+}
